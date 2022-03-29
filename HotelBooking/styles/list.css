@@ -1,0 +1,26 @@
+.hotelspic{
+    height: 200px;
+    width: 250px;
+}
+
+body{
+    background-color: #e0e0e0;
+}
+
+#head{
+    background-color: rosybrown;
+}
+
+#foot{
+    background-color: rosybrown;
+}
+
+#mod{
+    margin: 2%;
+}
+
+#card-color{
+    margin: 2%;
+    background-color: rgb(132,136 ,139 );
+    width: 40%;
+}

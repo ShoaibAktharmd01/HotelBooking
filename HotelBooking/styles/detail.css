@@ -1,0 +1,33 @@
+.Radisson{
+    height: 500px;
+    width: 500px;
+}
+
+body{
+    background-color: #e0e0e0;
+}
+
+#head{
+    background-color: rosybrown;
+}
+
+#foot{
+    background-color: rosybrown;
+}
+
+#container{
+    margin: 2% 4% 0 4%;
+}
+
+#heading{
+    margin-top: 1%;
+}
+
+#amenities{
+    margin: 2%;
+}
+
+#Desc{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

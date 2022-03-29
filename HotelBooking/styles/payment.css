@@ -1,0 +1,48 @@
+.Radisson{
+    height: 500px;
+    width: 500px;
+}
+
+body{
+    background-color: #e0e0e0;
+}
+
+#head{
+    background-color: rosybrown;
+}
+
+#foot{
+    background-color: rosybrown;
+}
+
+#Hoteldiv{
+    background-color: rgb(132,136 ,139 );
+    width: 50%;
+    height: 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.margin{
+    margin-top: 2%;
+}
+
+#divtwo{
+    margin-left: 2%;
+}
+
+#tariff{
+    border: 1px solid black;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 5px;
+    margin: 2%;
+}
